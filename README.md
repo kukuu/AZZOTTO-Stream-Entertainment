@@ -1,5 +1,5 @@
 # AZZOTTO Stream Entertainment
-A digital streaming entertainment service. Connecting all straming voices
+A digital streaming entertainment service.
 
 https://github.com/kukuu/AZZOTTO-Movies-Prime-Time/blob/main/README.md
 
