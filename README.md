@@ -12,12 +12,13 @@ Predicts, optimizes, and personalizes ticket pricing and promotions using Machin
 
 - https://github.com/kukuu/AZZOTTO-STREAM-AI-TICKETING-INTELLIGENCE-PLATFORM/blob/main/README.md
 
-## StreamJack
+## Middlewares
+### StreamJack
 
 Turning Video Endings into Revenue Engines
 - https://github.com/kukuu/StreamJack/blob/main/README.md
 
-## Nut Cracker
+### Nut Cracker
 A B2B SaaS Enterprise Application
 
 - https://github.com/kukuu/JSON-Excel-Converter
