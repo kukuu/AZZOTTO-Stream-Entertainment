@@ -15,7 +15,9 @@ Turning Video Endings into Revenue Engines
 - https://github.com/kukuu/StreamJack/blob/main/README.md
 
 ## Nut Cracker
-- A B2B SaaS Application - https://github.com/kukuu/JSON-Excel-Converter
+A B2B SaaS Enterprise Application
+
+- https://github.com/kukuu/JSON-Excel-Converter
 
 ## Market Place Evaluation
 - https://github.com/kukuu/Market-Place-Evaluation/blob/main/Azzotto-Stream/README.md
