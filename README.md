@@ -2,8 +2,6 @@
 
 A digital streaming entertainment service - https://www.azzottomovies.com/
 
-_Owner and Developer: Alexander Adu-Sarkodie_
-
 - https://github.com/kukuu/AZZOTTO-Movies-Prime-Time/blob/main/README.md
 
 ## AI Ticketing Intelligence
@@ -24,5 +22,8 @@ A B2B SaaS Enterprise Application
 
 ## Market Place Evaluation
 - https://github.com/kukuu/Market-Place-Evaluation/blob/main/Azzotto-Stream/README.md
+
+------
+_Owner and Developer: Alexander Adu-Sarkodie_: https://github.com/kukuu/portfolio/blob/main/README.md
 
 
