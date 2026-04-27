@@ -1,6 +1,8 @@
 # AZZOTTO Stream Entertainment
 
-A digital streaming entertainment service - https://www.azzottomovies.com/
+A digital streaming entertainment service:
+
+- https://www.azzottomovies.com/
 
 - https://github.com/kukuu/AZZOTTO-Movies-Prime-Time/blob/main/README.md
 
