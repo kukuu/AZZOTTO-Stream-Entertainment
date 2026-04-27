@@ -4,7 +4,9 @@ A digital streaming entertainment service.
 https://github.com/kukuu/AZZOTTO-Movies-Prime-Time/blob/main/README.md
 
 ## AI Ticketing Intelligence
-- https://github.com/kukuu/Market-Place-Evaluation/blob/main/Azzotto-Stream/README.md
+
+Predicts, optimizes, and personalizes ticket pricing and promotions using Machine Learning and AI Models, while tracking user behavior, processing payments, and enabling resell targeting and revenue optimization.
+https://github.com/kukuu/AZZOTTO-STREAM-AI-TICKETING-INTELLIGENCE-PLATFORM/blob/main/README.md
 
 ## StreamJack
 
