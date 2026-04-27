@@ -1,5 +1,8 @@
 # AZZOTTO Stream Entertainment
-A digital streaming entertainment service.
+
+A digital streaming entertainment service - https://www.azzottomovies.com/
+
+_Owner and Developer: Alexander Adu-Sarkodie_
 
 - https://github.com/kukuu/AZZOTTO-Movies-Prime-Time/blob/main/README.md
 
@@ -21,3 +24,5 @@ A B2B SaaS Enterprise Application
 
 ## Market Place Evaluation
 - https://github.com/kukuu/Market-Place-Evaluation/blob/main/Azzotto-Stream/README.md
+
+
