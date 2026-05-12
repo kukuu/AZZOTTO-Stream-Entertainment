@@ -24,7 +24,7 @@ A B2B SaaS Enterprise Application
 - https://github.com/kukuu/JSON-Excel-Converter
 
 ## Market Place Evaluation
-- https://github.com/kukuu/Market-Place-Evaluation/blob/main/Azzotto-Stream/README.md
+- https://github.com/kukuu/Market-Place-Evaluation/blob/main/Azzotto-Stream/README.md (**PRIVATE**)
 
 ------
 _Owner and Developer: Alexander Adu-Sarkodie_: https://github.com/kukuu/portfolio/blob/main/README.md
